@@ -1,0 +1,23 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  background-color: azure;
+}
+
+.wrapper label {
+  font-family: sans-serif;
+  font-size: 20;
+  color: blue;
+  font-weight: 600;
+}
+
+.wrapper span {
+  font-weight: 500;
+}
+
+.wrapper button {
+  padding: 10px 20px;
+}
